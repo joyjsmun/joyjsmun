@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<software-engineer type="web3"/>
+DeveloperDAO | Love creative things |
+10X Winners on Hackathons | EthBogota & EthIstanbul Finalist 🏆🏆
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
