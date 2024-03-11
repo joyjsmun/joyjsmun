@@ -31,6 +31,8 @@ I am passionate about shaping the future of the web - Web3. Building things is n
   <li>🥇 Viaprize(2023) - 1st place in ZK track </li>
   <li>🥇🥇 ZuConnect(2023) - Two 1st Place in ZK & Social Track</li>
   <li>🥇 ZuSocial(2023) - OnChain Identity </li>
+  <li>🏆🏅 ETH Istanbul(2023) Finalist / Best Consumer Use Case ApeCoin DAO / Innovation on Gnosis Chain </li>
+
   ... 
   
 
