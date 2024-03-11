@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://joymun.xyz/" title="Website">
+  <img alt="Hello, I'm Joy M" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title.png" width="612" />
+</a>
 
 <!--
 **joyjsmun/joyjsmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
