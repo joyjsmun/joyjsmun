@@ -16,11 +16,23 @@ I am passionate about shaping the future of the web - Web3. Building things is n
 
 # Hackathons Awards
 <ul>
-  <li>🥇🥇 ETH Seoul(2022) - Two 1st Place for Scaling and Polygon open track </li>
+  <li>🥇🥇 ETH Seoul(2022) - Two 1st Place in Scaling and Polygon open track </li>
   <li>🏆🏅 ETH Bogota(2022) Finalist / Best Use of Polygon ID / Best Use of Gnosis / Inclusion & tangible local impact track ETH Global </li>
-  <li>🏅ETH San Francisco(2022) - Best Use of Livepeer / Best Use of Push Protocol </li>
+  <li>🏅 ETH San Francisco(2022) - Best Use of Livepeer / Best Use of Push Protocol </li>
   <li>🥇 Polygon & The Pit(2023) - 1st Place Best Industry Specific Social Track</li>
-  <li>🥇 ETH Denver(2023) - </li>
+  <li>🥇 ETH Denver(2023) - Impact & public goods in Filecoin / Bese Use of Lense / Integrate Lens</li>
+  <li>🥇 HK Blockbooster Demo Day - Moonbeam</li>
+  <li>🥇 ETH Tokyo(2023) - Best Use ZkBob</li>
+  <li>🥇 ETH Seoul(2023) - Most Creative Usecase of Worldcoin</li>
+  <li>🥇 ETH Shanghai(2023) - 1st place social track</li>
+  <li>🥇🥇 SozuHaus in Paris(2023) - Three tracks 1st Place </li>
+  <li>🥇 ETH Paris(2023) - Best Use of ApeCoin DAO / Best Use of Mask Network / Best Public Good Nouns DAO</li>
+  <li>🥇 HackZuzalu in Singapore - 1st place in ZK track</li>
+  <li>🥇 Viaprize(2023) - 1st place in ZK track </li>
+  <li>🥇🥇 ZuConnect(2023) - Two 1st Place in ZK & Social Track</li>
+  <li>🥇 ZuSocial(2023) - OnChain Identity </li>
+  ... 
+  
 
 </ul>
 
