@@ -1,5 +1,5 @@
 <a href="https://joymun.xyz/" title="Website">
-  <img alt="Hello, I'm Joy M" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title.png" width="612" />
+  <img alt="Hello, I'm Joy M" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title-1.png" width="612" />
 </a>
 
 <!--
