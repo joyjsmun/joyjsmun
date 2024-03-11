@@ -16,7 +16,12 @@ I am passionate about shaping the future of the web - Web3. Building things is n
 
 # Hackathons Awards
 <ul>
-  <li></li>
+  <li>🥇🥇 ETH Seoul(2022) - Two 1st Place for Scaling and Polygon open track </li>
+  <li>🏆🏅 ETH Bogota(2022) Finalist / Best Use of Polygon ID / Best Use of Gnosis / Inclusion & tangible local impact track ETH Global </li>
+  <li>🏅ETH San Francisco(2022) - Best Use of Livepeer / Best Use of Push Protocol </li>
+  <li>🥇 Polygon & The Pit(2023) - 1st Place Best Industry Specific Social Track</li>
+  <li>🥇 ETH Denver(2023) - </li>
+
 </ul>
 
 
