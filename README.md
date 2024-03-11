@@ -5,7 +5,6 @@
 </div>
 
 <br>
-<br>
 <h3 align="center">DeveloperDAO | Love creative things </h3>
 <h3 align="center">10X Winners on Global Blochain Hackathons | EthBogota(2022) & EthIstanbul(2023) Finalist 🏆🏆</h3>
 <br>
