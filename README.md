@@ -2,10 +2,12 @@
   <img alt="Hello, I'm Joy M" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title-1.png" width="812" />
 </a>
 
-<h3 align="center">DeveloperDAO | Love creative things |</h3>
+<br>
+<h3 align="center">DeveloperDAO | Love creative things </h3>
 <h3 align="center">10X Winners on Hackathons | EthBogota & EthIstanbul Finalist 🏆🏆</h3>
 
->  I am passionate about shaping the future of the web - Web3. Building things is not just a job for me; it's a creative outlet and a way to bring my dreams to life. Check my [website](https://joymun.xyz) for my work.
+<br>
+I am passionate about shaping the future of the web - Web3. Building things is not just a job for me; it's a creative outlet and a way to bring my dreams to life. Check my [website](https://joymun.xyz) for my work.
 
 
 
