@@ -1,6 +1,6 @@
 <div>
 <a align="right" href="https://joymun.xyz/" title="Website">
-  <img alt="Hello, I'm Joy M" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title-1.png" width="812" />
+  <img alt="Joy Mun" src="https://github.com/joyjsmun/joyjsmun/raw/main/images/title-2.png" width="812" />
 </a>
 </div>
 
