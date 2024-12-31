@@ -6,11 +6,11 @@
 
 <br>
 <!-- <h3 align="center">DeveloperDAO | Love creative things </h3> -->
-<h3 align="center">Fullstack Software Engineer | Blockchain Developer </h3>
+<h3 align="center">Blockchain Developer | Fullstack Software Engineer | Specializing in Frontend enginneering</h3>
 <h3 align="center">10X Winners on Global Blockchain Hackathons | EthBogota(2022) & EthIstanbul(2023) Finalist 🏆🏆</h3>
 <br>
 <br>
-I am passionate about shaping the future of the web - Web3. Building things is not just a job for me; it's a creative outlet and a way to bring my dreams to life. Check my [website](https://joymun.xyz) for my work.
+I am passionate about shaping the future of the web - Web3. Building things is not just a job; it's a creative outlet and a way to bring my dreams to life. Check my [website](https://joymun.xyz) for my work.
 <br>
 
 # Entrepreneurial Experience
