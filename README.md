@@ -15,7 +15,7 @@ I am passionate about shaping the future of the web - Web3. Building things is n
 
 # Entrepreneurial Experience
 <ul>
-<li>Experienced - Co-founder of two Web3 projects (BuddyGuard - Consumer Social Safety Application, Splash - Integrate Monetizeable Videos in dApps)
+<li>Co-founder of two Web3 projects (BuddyGuard - Consumer Social Safety Application, Splash - Integrate Monetizeable Videos in dApps)
 <li>Active contributor to the Web3 ecosystem</li>
 <li>Focus on innovative blockchain solutions</li>
 </ul>
