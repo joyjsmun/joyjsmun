@@ -12,6 +12,8 @@
 I am passionate about shaping the future of the web - Web3. Building things is not just a job for me; it's a creative outlet and a way to bring my dreams to life. Check my [website](https://joymun.xyz) for my work.
 
 <br>
+<br>
+
 # Entrepreneurial Experience
 <ul>
 <li>Co-founder of two Web3 projects (BuddyGuard - Consumer Social Safety Application, Splash - Integrate Monetizeable Videos in dApps)
