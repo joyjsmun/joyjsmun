@@ -6,7 +6,7 @@
 
 <br>
 <h3 align="center">DeveloperDAO | Love creative things </h3>
-<h3 align="center">Software engineer specializing in blockchain and frontend engineering</h3>
+<h3 align="center">Fullstack Software Engineer | Blockchain Developer </h3>
 <h3 align="center">10X Winners on Global Blockchain Hackathons | EthBogota(2022) & EthIstanbul(2023) Finalist 🏆🏆</h3>
 <br>
 <br>
@@ -15,7 +15,7 @@ I am passionate about shaping the future of the web - Web3. Building things is n
 
 # Entrepreneurial Experience
 <ul>
-<li>Co-founder of two Web3 projects (BuddyGuard - Consumer Social Safety Application, Splash - Integrate Monetizeable Videos in dApps)
+<li>Experienced - Co-founder of two Web3 projects (BuddyGuard - Consumer Social Safety Application, Splash - Integrate Monetizeable Videos in dApps)
 <li>Active contributor to the Web3 ecosystem</li>
 <li>Focus on innovative blockchain solutions</li>
 </ul>
